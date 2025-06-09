@@ -1074,9 +1074,9 @@
             <div class="footer-col">
                 <h3>Contact Us</h3>
                 <ul>
-                    <li><i class="fas fa-map-marker-alt"></i> KN 4 Ave, Kigali, Rwanda</li>
-                    <li><i class="fas fa-phone"></i> +250 788 123 456</li>
-                    <li><i class="fas fa-envelope"></i> info@xyshop.rw</li>
+                    <li><i class="fas fa-map-marker-alt"></i> KN 4 Kinyinya, Kigali, Rwanda</li>
+                    <li><i class="fas fa-phone"></i> +250 795 130 378</li>
+                    <li><i class="fas fa-envelope"></i> xyshop@gmail.com.rw</li>
                     <li><i class="fas fa-clock"></i> Mon-Sat: 8AM - 6PM</li>
                 </ul>
             </div>
